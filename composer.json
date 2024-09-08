@@ -1,0 +1,15 @@
+{
+    "name": "jan-krueger/caramel",
+    "autoload": {
+        "psr-4": {
+            "Caramel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jan Krueger",
+            "email": "jan@krueger-jan.de"
+        }
+    ],
+    "require": {}
+}
